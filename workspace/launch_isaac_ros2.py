@@ -26,7 +26,7 @@ HOST_WS = HOME / "IsaacSim-ros_workspaces" / "jazzy_ws"
 
 ISAAC_DIR = HOME / "isaacsim"
 
-USD_FILE = HOME / "workspace" / "kandidat_setup_template.usd"
+USD_FILE = HOME / "ALIG" / "workspace" / "kandidat_setup_template.usd"
 
 DOCKER_IMAGE = "osrf/ros:jazzy-desktop"
 READY_IMAGE = "jazzy-isaac-ready:latest"
